@@ -2,11 +2,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Memuat file CSV
-file_path = r'D:\Materi Kuliah UNAIR\Semester 5\Pembelajaran Mesin (Praktikum) RK-A2\accelerometer.csv'  # Ganti dengan path file CSV yang sesuai
+file_path = r'D:\Materi Kuliah UNAIR\Semester 5\Pembelajaran Mesin (Praktikum) RK-A2\accelerometer.csv'  # isikan path CSV yang sesuai
 data = pd.read_csv(file_path)
 
 # Pilih salah satu nilai kecepatan rotasi (pctid) dari 17 variasi kecepatan yang ada
-pctid_value = 50  # Ganti dengan nilai pctid yang diinginkan
+pctid_value = 50  # Ganti dengan nilai pctid
 filtered_data = data[data['pctid'] == pctid_value]
 
 # Reset index untuk memulai dari 0
