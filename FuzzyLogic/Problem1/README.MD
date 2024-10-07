@@ -1,1 +1,3 @@
+## Problem 1
 
+A fabric manufacturing industry is set to produce sarongs. Based on data from the last month, the highest demand reached 5,000 pieces per day, medium demand ranged between 2,000-3,500 pieces per day, and the lowest demand was as low as 500 pieces per day. The maximum stock available in the warehouse is up to 250 pieces per day, and the minimum stock is only 50 pieces per day. Due to machine limitations, the company can produce a maximum of 6,000 pieces per day, and for machine and labor efficiency, the company produces at least 1,000 pieces per day. If market demand reaches 4,000 pieces and the remaining stock in the warehouse is 500 pieces, how many sarongs should be produced to meet market demand while keeping the warehouse stock at a safe level?
