@@ -1,3 +1,3 @@
-## Problem 1
+## Problem Tsukamoto 1
 
 Sebuah industri produsen kain akan memproduksi kain sarung. Berdasarkan data 1 bulan terakhir, permintaan terbesar mencapai 5000 lembar/hari, permintaan sedang berada pada rentang 2000-3500 lembar/hari, permintaan terkecil hingga 500 lembar/hari. Persediaan barang digudang terbanyak adalah hingga 250 lembar/hari, dan terkecil hanya 50 lembar/hari. Dengan segala keterbatasan mesin, perusahaan hanya mampu memproduksi sarung maksimum 6000 lembar/hari, dan untuk efisiensi mesin dan tenaga kerja tiap hari, perusahaan memproduksi paling sedikit 1000 lembar/hari. Jika permintaan pasar mencapai 4000 lembar dan persediaan di gudang tersisa 500 lembar, maka berapa jumlah sarung yang harus diproduksi agar memenuhi permintaan pasar dan persediaan di gudang tetap aman ?
