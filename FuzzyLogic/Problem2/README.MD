@@ -1,4 +1,4 @@
-# Sistem Perhitungan Tip Menggunakan Logika Fuzzy
+# Sistem Perhitungan Tip Menggunakan Logika Fuzzy Tsukamoto
 
 ## Gambaran Umum
 Sistem ini memodelkan bagaimana seorang pelanggan menentukan jumlah tip yang diberikan di restoran. Keputusan untuk memberikan tip didasarkan pada kualitas pelayanan dan kualitas makanan, yang dinilai dalam rentang 0 hingga 10. Output dari sistem ini adalah jumlah tip yang akan diberikan dalam persentase, antara 0% hingga 25% dari total pembayaran.
